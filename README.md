@@ -4,7 +4,7 @@ Zanim pobierzesz:
 
 Oto "Młody Say10 - The Game".
 
-Cała paczka plików waży ~22MB. To nie dużo, na spokojnie możesz pobierać. Aby pobrać plik, na stronie na któej jesteś znajdź zielony przycisk "Code". Kliknij go, a nasępnie kliknij "Download ZIP". Znajdź pobrany plik na swoim komputerze (powinien nazywać się "Mlody-Say10-The-Game-main.zip") i wejdź w niego. Powinieneś zobaczyć folder "MlodySay10TG". Wyciągnij go z paczki do innego miejsca, np. na pulpit. Następnie wejdź w folder "MlodySay10TG", a następnie w folder "MainPage" i znajdź plik index.html. Włącz go. Voi la! Ciesz się grą, mam nadzieję, że się spodoba!
+Cała paczka plików waży ~22MB. To nie dużo, na spokojnie możesz pobierać. Aby pobrać plik, na stronie na której jesteś znajdź zielony przycisk "Code". Kliknij go, a następnie kliknij "Download ZIP". Znajdź pobrany plik na swoim komputerze (powinien nazywać się "Mlody-Say10-The-Game-main.zip") i wejdź w niego. Powinieneś zobaczyć folder "MlodySay10TG". Wyciągnij go z paczki do innego miejsca, np. na pulpit. Następnie wejdź w folder "MlodySay10TG", a następnie w folder "MainPage" i znajdź plik index.html. Włącz go. Voi la! Ciesz się grą, mam nadzieję, że się spodoba!
 
 Plany: <br>
 Anyżowe Żelki - randomizacja pozycji spadania żelków; dodanie płynnej animacji poruszania się postaci <br>
